@@ -1,3 +1,0 @@
-/Users/xuruijiang/CLionProjects/test_8_11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/xuruijiang/CLionProjects/test_8_11/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/xuruijiang/CLionProjects/test_8_11/cmake-build-debug/CMakeFiles/test_8_11.dir

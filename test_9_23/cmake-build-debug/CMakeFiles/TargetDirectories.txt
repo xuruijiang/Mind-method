@@ -1,3 +1,0 @@
-/Users/xuruijiang/CLionProjects/test_9_23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/xuruijiang/CLionProjects/test_9_23/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/xuruijiang/CLionProjects/test_9_23/cmake-build-debug/CMakeFiles/test_9_23.dir
