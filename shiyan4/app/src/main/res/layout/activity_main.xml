@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.shiyan4.MainActivity" >
+
+    <Button
+        android:id="@+id/normal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="标准对话框" />
+
+    <Button
+        android:id="@+id/multi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="多选对话框" />
+
+    <Button
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="列表对话框" />
+
+    <Button
+        android:id="@+id/radio"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="单项选择对话框" />
+    <Button
+        android:id="@+id/checkBoxes"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="多项选择对话框" />
+
+    <Button
+        android:id="@+id/progress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="进度条窗口" />
+    <Button
+        android:id="@+id/custom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义对话框" />
+
+    <Button
+        android:id="@+id/popWindow"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="pop window" />
+
+</LinearLayout>

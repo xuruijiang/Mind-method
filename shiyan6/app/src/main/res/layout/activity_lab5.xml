@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8E8E8"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="用户登录"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#8fadb3"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="@color/white"
+        android:orientation="vertical"
+        />
+
+        <TextView
+            android:id="@+id/phone"
+            android:text="手机号:"
+            android:textSize="15dp"
+            android:paddingLeft="10dp"
+
+            android:gravity="fill_vertical"
+            android:textColor="@color/black"
+            android:layout_width="330dp"
+            android:layout_height="50dp"
+             />
+
+        <TextView
+            android:id="@+id/password"
+            android:gravity="fill_vertical"
+            android:text="密   码:"
+            android:textSize="15dp"
+            android:paddingLeft="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+
+            android:layout_width="330dp"
+            android:layout_height="50dp"/>
+
+        <Button
+            android:id="@+id/regist"
+            android:text="注册"
+            android:textColor="@color/teal_700"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/loadin"
+            android:text="登录"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="@color/teal_700"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
