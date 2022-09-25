@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<books>
+
+    <book sn = "001">
+        <name>葵花宝典</name>
+        <author>东方不败</author>
+        <price>99.99</price>
+    </book>
+
+    <book sn = "002">
+        <name>如来神掌</name>
+        <author>星爷</author>
+        <price>88.88</price>
+    </book>
+</books>
