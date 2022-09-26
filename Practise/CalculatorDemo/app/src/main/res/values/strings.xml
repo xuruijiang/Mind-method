@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">实战项目1：简单计算器</string>
+    <string name="textView">0</string>
+    <string name="textView_header">简单计算器</string>
+</resources>

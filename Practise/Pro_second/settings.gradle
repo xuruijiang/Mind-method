@@ -1,0 +1,2 @@
+rootProject.name = "Pro_second"
+include ':app'
