@@ -1,0 +1,5 @@
+# ninja log v5
+0	20	1664191620106151333	CMakeFiles/test_9_26_FibonacciSeries.dir/main.c.o	9b9563d55af7f9e3
+21	50	1664191620136516666	test_9_26_FibonacciSeries	8e531ff5a2e7ca86
+0	21	1664191626161405208	CMakeFiles/test_9_26_FibonacciSeries.dir/main.c.o	9b9563d55af7f9e3
+22	52	1664191626192283374	test_9_26_FibonacciSeries	8e531ff5a2e7ca86
