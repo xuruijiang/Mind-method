@@ -74,7 +74,7 @@ build cmake_object_order_depends_target_test_9_17_Contact: phony || CMakeFiles/t
 
 build CMakeFiles/test_9_17_Contact.dir/main.c.o: C_COMPILER__test_9_17_Contact_Debug /Users/xuruijiang/CLionProjects/test_9_17_Contact/main.c || cmake_object_order_depends_target_test_9_17_Contact
   DEP_FILE = CMakeFiles/test_9_17_Contact.dir/main.c.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/test_9_17_Contact.dir
   OBJECT_FILE_DIR = CMakeFiles/test_9_17_Contact.dir
   TARGET_COMPILE_PDB = CMakeFiles/test_9_17_Contact.dir/
@@ -89,7 +89,7 @@ build CMakeFiles/test_9_17_Contact.dir/main.c.o: C_COMPILER__test_9_17_Contact_D
 # Link the executable test_9_17_Contact
 
 build test_9_17_Contact: C_EXECUTABLE_LINKER__test_9_17_Contact_Debug CMakeFiles/test_9_17_Contact.dir/main.c.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/test_9_17_Contact.dir
   POST_BUILD = :
   PRE_LINK = :

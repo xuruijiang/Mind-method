@@ -17,8 +17,12 @@ int gcd(int a, int b ) {
 }
 int main() {
 
+
     int a = 100;
     int b = 150;
+    int z = 9;
+
+    //a = b == z;
     printf("%d",gcd(a,b));
     return 0;
 }
