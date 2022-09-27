@@ -1,0 +1,13 @@
+# ninja log v5
+0	23	1664239478642015458	CMakeFiles/test_9_27_sumNumbers.dir/main.c.o	5df01f8fbca03e0b
+23	53	1664239478672559124	test_9_27_sumNumbers	3ab6a66b27b8762b
+1	21	1664239488620859416	CMakeFiles/test_9_27_sumNumbers.dir/main.c.o	5df01f8fbca03e0b
+21	51	1664239488651872666	test_9_27_sumNumbers	3ab6a66b27b8762b
+0	22	1664241867174332208	CMakeFiles/test_9_27_sumNumbers.dir/main.c.o	5df01f8fbca03e0b
+22	51	1664241867203148249	test_9_27_sumNumbers	3ab6a66b27b8762b
+0	22	1664242122343979791	CMakeFiles/test_9_27_sumNumbers.dir/main.c.o	5df01f8fbca03e0b
+22	51	1664242122373779208	test_9_27_sumNumbers	3ab6a66b27b8762b
+0	22	1664245093448824666	CMakeFiles/test_9_27_sumNumbers.dir/main.c.o	5df01f8fbca03e0b
+22	50	1664245093477822666	test_9_27_sumNumbers	3ab6a66b27b8762b
+0	23	1664245113221699041	CMakeFiles/test_9_27_sumNumbers.dir/main.c.o	5df01f8fbca03e0b
+23	50	1664245113249513583	test_9_27_sumNumbers	3ab6a66b27b8762b
