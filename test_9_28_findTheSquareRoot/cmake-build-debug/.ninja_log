@@ -1,0 +1,5 @@
+# ninja log v5
+0	1728	1664326021171069958	CMakeFiles/test_9_28_findTheSquareRoot.dir/main.c.o	c044f6978c4245ae
+1729	1911	1664326021354244874	test_9_28_findTheSquareRoot	29c1bddbbe10fb1d
+0	26	1664326762261381208	CMakeFiles/test_9_28_findTheSquareRoot.dir/main.c.o	c044f6978c4245ae
+26	61	1664326762296458499	test_9_28_findTheSquareRoot	29c1bddbbe10fb1d
