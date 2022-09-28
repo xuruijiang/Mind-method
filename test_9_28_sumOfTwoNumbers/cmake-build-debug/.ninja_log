@@ -1,0 +1,19 @@
+# ninja log v5
+0	28	1664358333565822749	CMakeFiles/test_9_28_sumOfTwoNumbers.dir/main.c.o	8e6e21d4bc708da3
+28	63	1664358333601165791	test_9_28_sumOfTwoNumbers	33ae47f989ea5f72
+1	27	1664358380925356458	CMakeFiles/test_9_28_sumOfTwoNumbers.dir/main.c.o	8e6e21d4bc708da3
+28	63	1664358380960889124	test_9_28_sumOfTwoNumbers	33ae47f989ea5f72
+1	30	1664358885766806374	CMakeFiles/test_9_28_sumOfTwoNumbers.dir/main.c.o	8e6e21d4bc708da3
+30	66	1664358885803063166	test_9_28_sumOfTwoNumbers	33ae47f989ea5f72
+1	30	1664362268892894499	CMakeFiles/test_9_28_sumOfTwoNumbers.dir/main.c.o	8e6e21d4bc708da3
+30	66	1664362268928902624	test_9_28_sumOfTwoNumbers	33ae47f989ea5f72
+0	27	1664362276166910333	CMakeFiles/test_9_28_sumOfTwoNumbers.dir/main.c.o	8e6e21d4bc708da3
+27	62	1664362276202577749	test_9_28_sumOfTwoNumbers	33ae47f989ea5f72
+0	29	1664362283128966874	CMakeFiles/test_9_28_sumOfTwoNumbers.dir/main.c.o	8e6e21d4bc708da3
+29	63	1664362283163742083	test_9_28_sumOfTwoNumbers	33ae47f989ea5f72
+1	31	1664362389992836499	CMakeFiles/test_9_28_sumOfTwoNumbers.dir/main.c.o	8e6e21d4bc708da3
+31	65	1664362390027216833	test_9_28_sumOfTwoNumbers	33ae47f989ea5f72
+0	28	1664362435391997333	CMakeFiles/test_9_28_sumOfTwoNumbers.dir/main.c.o	8e6e21d4bc708da3
+28	63	1664362435427578041	test_9_28_sumOfTwoNumbers	33ae47f989ea5f72
+1	28	1664363369599229708	CMakeFiles/test_9_28_sumOfTwoNumbers.dir/main.c.o	8e6e21d4bc708da3
+29	64	1664363369635016958	test_9_28_sumOfTwoNumbers	33ae47f989ea5f72
