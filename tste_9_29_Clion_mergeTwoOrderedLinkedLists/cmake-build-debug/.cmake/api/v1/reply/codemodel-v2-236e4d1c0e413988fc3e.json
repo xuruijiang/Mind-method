@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tste_9_29_Clion_mergeTwoOrderedLinkedLists",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tste_9_29_Clion_mergeTwoOrderedLinkedLists::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tste_9_29_Clion_mergeTwoOrderedLinkedLists-Debug-44178f583efbc39490bc.json",
+					"name" : "tste_9_29_Clion_mergeTwoOrderedLinkedLists",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuruijiang/CLionProjects/tste_9_29_Clion_mergeTwoOrderedLinkedLists/cmake-build-debug",
+		"source" : "/Users/xuruijiang/CLionProjects/tste_9_29_Clion_mergeTwoOrderedLinkedLists"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
