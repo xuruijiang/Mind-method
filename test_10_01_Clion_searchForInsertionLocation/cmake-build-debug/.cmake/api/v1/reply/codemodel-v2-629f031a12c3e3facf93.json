@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_10_01_Clion_searchForInsertionLocation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_10_01_Clion_searchForInsertionLocation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_10_01_Clion_searchForInsertionLocation-Debug-9ee1b9048b48d9b29ce6.json",
+					"name" : "test_10_01_Clion_searchForInsertionLocation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuruijiang/CLionProjects/test_10_01_Clion_searchForInsertionLocation/cmake-build-debug",
+		"source" : "/Users/xuruijiang/CLionProjects/test_10_01_Clion_searchForInsertionLocation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

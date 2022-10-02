@@ -1,0 +1,9 @@
+# ninja log v5
+0	23	1664625653638365666	CMakeFiles/test_10_01_Clion_adddOne.dir/main.c.o	12dcf0068e4a27e1
+24	56	1664625653671579916	test_10_01_Clion_adddOne	bd001c99d05179a4
+1	26	1664625925520264666	CMakeFiles/test_10_01_Clion_adddOne.dir/main.c.o	12dcf0068e4a27e1
+26	59	1664625925552969791	test_10_01_Clion_adddOne	bd001c99d05179a4
+0	23	1664625943154509833	CMakeFiles/test_10_01_Clion_adddOne.dir/main.c.o	12dcf0068e4a27e1
+24	55	1664625943186846041	test_10_01_Clion_adddOne	bd001c99d05179a4
+0	26	1664626316172555291	CMakeFiles/test_10_01_Clion_adddOne.dir/main.c.o	12dcf0068e4a27e1
+26	58	1664626316205657999	test_10_01_Clion_adddOne	bd001c99d05179a4
