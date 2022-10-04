@@ -22,9 +22,10 @@ int* plusOne(int* digits, int digitsSize, int* returnSize){
         count = 1;
         p[digitsSize] = 0;
         for (int i = 1; i < digitsSize; ++i) {
-            if (digits[digitsSize - 1 -i] + 1 > 9){
+            if (digits[digitsSize - 1 -i] + count > 9){
 
                 p[digitsSize - i] = 0;
+                count = 1;
 
             } else{
 
@@ -60,11 +61,11 @@ int* plusOne(int* digits, int digitsSize, int* returnSize){
 int main() {
 
 
-    int arr[] = {8,9,9,9};
+    int arr[] = {8,9,9,8,9,6,4,9};
 
     int k = 0;
     int *p;
-    p = plusOne(arr, 4, &k);
+    p = plusOne(arr, 8, &k);
 
     for (int i = 0; i < k; ++i) {
         printf("%d,",p[i]);
