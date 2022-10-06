@@ -7,9 +7,9 @@ bool isPalindrome(int x){
 
     char str[25] = {0};
     int i = 0;
-
-
-
+    
+   
+    
     //itoa(x,str,10);
     if( x < 10 && x >= 0){
         return true;
@@ -17,16 +17,16 @@ bool isPalindrome(int x){
         return false;
     }
 
-
+    
     while (1) {
         str[i] = (char)(x%10 + 48);
-
+        
         if((x = x/10) == 0){
             break;
         }
-
+        
         i++;
-
+       
     }
     int lenth = (int)strlen(str);
 
@@ -39,11 +39,11 @@ bool isPalindrome(int x){
         {
             return false;
         }
-
+        
         left++;
         right--;
     }
-
+    
     return true;
 
 }
