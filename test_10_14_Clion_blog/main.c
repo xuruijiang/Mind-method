@@ -1,11 +1,14 @@
 #include <stdio.h>
-
+#include <float.h>
 int main() {
 
 
-    float a = 0.1f;
-    double b = 0.1;
-    printf("%.30f\n",a);
-    printf("%.30lf\n",b);
-    return 0;
+    float a = 1.0f;
+    if( a == 1){
+        printf("a == 1");
+    } else{
+
+        printf("a != 1");
+    }
+
 }
