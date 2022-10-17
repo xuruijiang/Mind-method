@@ -1,4 +1,12 @@
 #include <stdio.h>
+#include <string.h>
+
+enum Color{
+    BLUE = 2,
+    RED,
+    GREEN
+
+};
 
 int maxArea(int* height, int heightSize){
 
@@ -30,8 +38,18 @@ int maxArea(int* height, int heightSize){
 
 int main() {
 
+    //char arr1[] = {'2','b','3'};
+    //printf("%d\n",strlen(arr1));
+    //printf("\a");
 
 
+    int a = 3;
+
+    scanf("%d",&a);
+    printf("a = %d\n",a);
+    enum Color color;
+    color = RED;
+    printf("%d\n",color);
     int arr[10] = {3,6,4,7,9,2,1,5,7,6};
 
     int area = maxArea(arr,10);
