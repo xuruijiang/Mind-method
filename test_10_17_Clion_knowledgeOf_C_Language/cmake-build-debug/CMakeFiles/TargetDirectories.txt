@@ -1,0 +1,3 @@
+/Users/xuruijiang/CLionProjects/test_10_17_Clion_knowledgeOf_C_Language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xuruijiang/CLionProjects/test_10_17_Clion_knowledgeOf_C_Language/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuruijiang/CLionProjects/test_10_17_Clion_knowledgeOf_C_Language/cmake-build-debug/CMakeFiles/test_10_17_Clion_knowledgeOf_C_Language.dir
