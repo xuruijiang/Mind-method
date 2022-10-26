@@ -12,12 +12,12 @@ int main() {
         perror("fopen");
         return 1;
     }
-    fgets(arr,8,pf);
-    fgets(arr,8,pf);
+
+     arr[0] = fgetc(pf);
+
+    printf("%c\n",arr[0]);
 
 
-
-    printf(arr);
 
     fclose(pf);
     pf = NULL;
