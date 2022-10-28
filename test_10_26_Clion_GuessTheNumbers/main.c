@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <string.h>
 
 
 void Game(){
@@ -35,8 +36,10 @@ int main() {
 
 
     int count = 0;
-
     srand(time(NULL));
+
+    char str[] = "djsdsjd";
+    strlen(str);
 
     while (1){
         printf("*******************************************\n");
