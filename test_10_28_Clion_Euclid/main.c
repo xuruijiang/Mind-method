@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+
     long long numOne = 0;
     long long numTwo = 0;
     scanf("%lld%lld",&numOne,&numTwo);
@@ -24,7 +25,6 @@ int main() {
             max = min;
             min = count;
         }
-
     }
 
     multiple = numOne * numTwo / commonDivisor;
@@ -32,4 +32,9 @@ int main() {
 
 
     return 0;
+}
+
+int fun(){
+
+    return 1;
 }
