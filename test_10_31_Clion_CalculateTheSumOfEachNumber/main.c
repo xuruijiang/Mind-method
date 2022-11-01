@@ -6,12 +6,12 @@ int fun(int num){
     if(num < 10){
         return num;
     }else{
-
         return (num % 10) + fun(num/10);
     }
 
 }
 int main() {
+    printf("%s\n","avccc");
     int num = 0;
     scanf("%d",&num);
     printf("%d\n",fun(num)) ;
