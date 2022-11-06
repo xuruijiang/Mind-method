@@ -11,11 +11,15 @@ void hanoi(int n, char a, char b, char c)
 
 int main()
 {
-    int n;
-    scanf("%d", &n);
+//    int n;
+//    scanf("%d", &n);
+//
+//    cnt = 1;
+//    hanoi(n, 'A', 'B', 'C');
+//
+//    return 0;
 
-    cnt = 1;
-    hanoi(n, 'A', 'B', 'C');
 
-    return 0;
+    char arr[] = {'a','b','c'};//这种数组只有三个元素。
+    char str[] = "abc";//这种数组有四个元素 abc\0
 }
