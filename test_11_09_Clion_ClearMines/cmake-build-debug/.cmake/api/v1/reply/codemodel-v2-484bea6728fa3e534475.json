@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_11_09_Clion_ClearMines",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_11_09_Clion_ClearMines::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_11_09_Clion_ClearMines-Debug-e7d38e4c337e4de9fff8.json",
+					"name" : "test_11_09_Clion_ClearMines",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuruijiang/CLionProjects/test_11_09_Clion_ClearMines/cmake-build-debug",
+		"source" : "/Users/xuruijiang/CLionProjects/test_11_09_Clion_ClearMines"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
