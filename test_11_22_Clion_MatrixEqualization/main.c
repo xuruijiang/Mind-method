@@ -35,5 +35,11 @@ int main() {
     } else{
         printf("Yes\n");
     }
+
+    free(pIntOne);
+    free(pIntTwo);
+    pIntOne = NULL;
+    pIntTwo = NULL;
+
     return 0;
 }
