@@ -244,23 +244,41 @@
 //    printf("s=%d\n",s);
 //    return 0;
 //}
+//#include <stdio.h>
+//#include <string.h>
+//int main( )
+//{
+////    char ch[3][5]={"135","246","789"},*p[3];
+////    int i,j,s=0;
+////    for(i=0;i<3;i++) p[i]=ch[i];
+////    for(i=0;i<3;i++)
+////        for(j=0;p[i][j]>='0'&&p[i][j]<='9';j+=2)
+////            s=10*s+p[i][j]-'0';
+////    printf("%d\n",s);
+//
+//    int a = 7;
+//    double x = 2.5, y = 4.7;
+//
+//    printf ("%1f\n", x + (a % 3) * ((int)(x + y) %2) /4);
+//
+//    printf("%d",35);
+//    return 0;
+//}
+
 #include <stdio.h>
-#include <string.h>
-int main( )
-{
-//    char ch[3][5]={"135","246","789"},*p[3];
-//    int i,j,s=0;
-//    for(i=0;i<3;i++) p[i]=ch[i];
-//    for(i=0;i<3;i++)
-//        for(j=0;p[i][j]>='0'&&p[i][j]<='9';j+=2)
-//            s=10*s+p[i][j]-'0';
-//    printf("%d\n",s);
+void inverse(){
+    char str[100] = {0};
 
-    int a = 7;
-    double x = 2.5, y = 4.7;
 
-    printf ("%1f\n", x + (a % 3) * ((int)(x + y) %2) /4);
+    if(scanf("%s",str) != EOF){
+        inverse();
+        printf("%s ",str);
+    }
 
-    printf("%d",35);
+}
+
+int main(){
+
+    inverse();
     return 0;
 }
