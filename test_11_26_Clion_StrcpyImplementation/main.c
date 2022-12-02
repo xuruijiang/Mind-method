@@ -282,3 +282,5 @@ int main(){
     inverse();
     return 0;
 }
+
+// 撤销动作。
