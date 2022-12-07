@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_12_7_Clion_ForTakeExaminationsForAGraduateProgramme",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_12_7_Clion_ForTakeExaminationsForAGraduateProgramme::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_12_7_Clion_ForTakeExaminationsForAGraduateProgramme-Debug-a15c2b997dfae9d1ee2d.json",
+					"name" : "test_12_7_Clion_ForTakeExaminationsForAGraduateProgramme",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuruijiang/CLionProjects/test_12_7_Clion_ForTakeExaminationsForAGraduateProgramme/cmake-build-debug",
+		"source" : "/Users/xuruijiang/CLionProjects/test_12_7_Clion_ForTakeExaminationsForAGraduateProgramme"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
