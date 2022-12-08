@@ -1,6 +1,21 @@
 #include <stdio.h>
 
+
+struct node{
+    int data;
+    struct node * next;
+
+}* pt;
 int main() {
+
+    struct node no = {1};
+    pt = &no;
+    struct node no1 = {2};
+
+    no.next = &no1;
+    pt->next->data = 2;
+
+    printf("%d \n",no1.data);
 
 
     int a = 0;
