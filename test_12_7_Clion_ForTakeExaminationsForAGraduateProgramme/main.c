@@ -3,6 +3,8 @@
 int main() {
 
 
+    int a = 0;
+    //a=a+2=3;
     double n = 0;
     double sum = 0;
     scanf("%lf",&n);
