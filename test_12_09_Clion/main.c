@@ -37,10 +37,25 @@ int * fun_pass(int * arr){
 }
 int main() {
 
+
+//    int number = 0;
+//    char c = 0;
+//
+//
+//    scanf("%d",&number);
+//    c = getchar();
+//    scanf("%c",&c);
+//
+//    printf("%d,%c\n",number,c);
+
     /*char arrr[6] = "abcdef";
     printf("%s",arrr);
 */
     // printf("%d",sizeof (float ));
+
+//    char a = 127;
+//    a = a<<1;
+//    printf("%d\n",a);
 
     int arr[10] = {0};
 
