@@ -60,6 +60,7 @@ int main() {
         perror("fopen");
         return 1;
     }
+    
     for (int i = 0; i < 10; ++i) {
         fprintf(fp,"%d\t",*(p + i));
     }
