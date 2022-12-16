@@ -17,9 +17,11 @@ void fun_array(int * p,int * min,int * max,int n){
 
 }
 
+#define bue(a) (a)-(a)
 int main() {
 
 
+    printf("%d\n", bue(2+3) * 5);
 
     int data[20],i;
     for (i = 0; i < 20; i++) {
