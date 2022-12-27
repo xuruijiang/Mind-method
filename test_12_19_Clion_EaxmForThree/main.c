@@ -14,14 +14,36 @@ struct Staff {
 
 
 };
+
+typedef int* int_ptr;
+#define INT_PTR int*
+
 int main() {
 
+    INT_PTR a,b;
+    int m = 0;
+    int_ptr c,d;
 
+    c = &m;
+    char acc[5];
+    scanf("%s",&acc);
+//    char c1[5] = {'\x10','\xa','\8'};//low
 //    int a[5] = {1,2,3,4,5};
 //    int *p =a;
 //
 //    printf("%d\n",*p++);
 //    printf("%d\n",*p);
+
+    int a,b,c;
+    a = 3,4,5;
+    scanf("%d%d%d",&a,&b,&c);
+
+    printf("%d\n",a+b+c);
+
+
+
+
+
 
     struct Staff staff[5] = {{"001","张三",18,5500},{"002","李四",19,6600},
             {"003","王二麻子",20,8888},{"004","二狗子",22,12000},{"005","二蛋",31,60000}};
