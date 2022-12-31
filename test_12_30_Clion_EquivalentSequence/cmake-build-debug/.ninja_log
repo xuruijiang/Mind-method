@@ -1,3 +1,7 @@
 # ninja log v5
 0	25	1672337830698262208	CMakeFiles/test_12_30_Clion_EquivalentSequence.dir/main.c.o	212963cc4370fab9
 25	63	1672337830737038791	test_12_30_Clion_EquivalentSequence	c6a2bda13621ddf4
+0	1717	1672414209833177124	CMakeFiles/test_12_30_Clion_EquivalentSequence.dir/main.c.o	212963cc4370fab9
+1717	1904	1672414210021468624	test_12_30_Clion_EquivalentSequence	c6a2bda13621ddf4
+1	26	1672414506011817958	CMakeFiles/test_12_30_Clion_EquivalentSequence.dir/main.c.o	212963cc4370fab9
+26	62	1672414506048249541	test_12_30_Clion_EquivalentSequence	c6a2bda13621ddf4

@@ -2,6 +2,7 @@
 
 int main() {
 
+
     int sum = 0;
     int n = 0;
     scanf("%d",&n);
