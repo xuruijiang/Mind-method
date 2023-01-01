@@ -1,0 +1,3 @@
+/Users/xuruijiang/CLionProjects/test_2023_01_01_clion_TheMinimumNumberOfTheRotatingArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xuruijiang/CLionProjects/test_2023_01_01_clion_TheMinimumNumberOfTheRotatingArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuruijiang/CLionProjects/test_2023_01_01_clion_TheMinimumNumberOfTheRotatingArray/cmake-build-debug/CMakeFiles/test_2023_01_01_clion_TheMinimumNumberOfTheRotatingArray.dir

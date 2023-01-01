@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(test_2023_01_01_clion_TheMinimumNumberOfTheRotatingArray C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(test_2023_01_01_clion_TheMinimumNumberOfTheRotatingArray main.c)
