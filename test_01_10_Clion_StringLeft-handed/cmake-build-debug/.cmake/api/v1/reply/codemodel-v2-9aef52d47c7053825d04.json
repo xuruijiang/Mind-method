@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_01_10_Clion_StringLeft_handed",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_01_10_Clion_StringLeft_handed::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_01_10_Clion_StringLeft_handed-Debug-0b6cb86512a0366f90f4.json",
+					"name" : "test_01_10_Clion_StringLeft_handed",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuruijiang/CLionProjects/test_01_10_Clion_StringLeft-handed/cmake-build-debug",
+		"source" : "/Users/xuruijiang/CLionProjects/test_01_10_Clion_StringLeft-handed"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
