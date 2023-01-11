@@ -1,0 +1,15 @@
+/Users/xuruijiang/VsProjects/Project/Project/bin/Debug/net7.0/Project
+/Users/xuruijiang/VsProjects/Project/Project/bin/Debug/net7.0/Project.deps.json
+/Users/xuruijiang/VsProjects/Project/Project/bin/Debug/net7.0/Project.runtimeconfig.json
+/Users/xuruijiang/VsProjects/Project/Project/bin/Debug/net7.0/Project.dll
+/Users/xuruijiang/VsProjects/Project/Project/bin/Debug/net7.0/Project.pdb
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/Project.csproj.AssemblyReference.cache
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/Project.AssemblyInfoInputs.cache
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/Project.AssemblyInfo.cs
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/Project.csproj.CoreCompileInputs.cache
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/Project.dll
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/refint/Project.dll
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/Project.pdb
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/Project.genruntimeconfig.cache
+/Users/xuruijiang/VsProjects/Project/Project/obj/Debug/net7.0/ref/Project.dll

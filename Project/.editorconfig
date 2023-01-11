@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS8600: 将 null 字面量或可能为 null 的值转换为非 null 类型。
+dotnet_diagnostic.CS8600.severity = none
+
+# IDE0210: 转换为顶级语句
+csharp_style_prefer_top_level_statements = true
