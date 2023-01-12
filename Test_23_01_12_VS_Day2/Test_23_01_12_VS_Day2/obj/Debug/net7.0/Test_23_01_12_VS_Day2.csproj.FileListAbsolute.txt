@@ -1,0 +1,15 @@
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/bin/Debug/net7.0/Test_23_01_12_VS_Day2
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/bin/Debug/net7.0/Test_23_01_12_VS_Day2.deps.json
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/bin/Debug/net7.0/Test_23_01_12_VS_Day2.runtimeconfig.json
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/bin/Debug/net7.0/Test_23_01_12_VS_Day2.dll
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/bin/Debug/net7.0/Test_23_01_12_VS_Day2.pdb
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/Test_23_01_12_VS_Day2.csproj.AssemblyReference.cache
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/Test_23_01_12_VS_Day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/Test_23_01_12_VS_Day2.AssemblyInfoInputs.cache
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/Test_23_01_12_VS_Day2.AssemblyInfo.cs
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/Test_23_01_12_VS_Day2.csproj.CoreCompileInputs.cache
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/Test_23_01_12_VS_Day2.dll
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/refint/Test_23_01_12_VS_Day2.dll
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/Test_23_01_12_VS_Day2.pdb
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/Test_23_01_12_VS_Day2.genruntimeconfig.cache
+/Users/xuruijiang/VsProjects/Test_23_01_12_VS_Day2/Test_23_01_12_VS_Day2/obj/Debug/net7.0/ref/Test_23_01_12_VS_Day2.dll
