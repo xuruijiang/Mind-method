@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "test_23_01_13_VS_Day3/1.0.0": {
+        "runtime": {
+          "test_23_01_13_VS_Day3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test_23_01_13_VS_Day3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
