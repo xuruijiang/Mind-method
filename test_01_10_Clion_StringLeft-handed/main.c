@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <string.h>
-
+#include <stdlib.h>
 int main() {
 
 
     char str[] = "abcdefgh";
     int n = 0;
 
-    scanf("%d",&n);
+    scanf(" %d ",&n);
 
     char temp;
 
