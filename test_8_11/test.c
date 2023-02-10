@@ -1,7 +1,7 @@
 
 #include <stdlib.h>
 #include <time.h>
-#include "game.c"
+//#include "game.c"
 #include "game.h"
 void game(){
     //存储数据-二维数组

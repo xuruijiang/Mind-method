@@ -26,9 +26,9 @@ int* printNumbers(int n, int* returnSize ) {
 
 int main() {
 
-    int n = 2;
+    int n = 3;
 
-    int arr[100] = {0};
+    int arr[1000] = {0};
 
     printNumbers(n,arr);
 

@@ -1,0 +1,8 @@
+# ninja log v5
+0	24	1675911822202525740	CMakeFiles/test_23_02_09_Clion_Low_levelContacts.dir/main.c.o	1ad83f196517a74f
+0	28	1675912895037582698	CMakeFiles/test_23_02_09_Clion_Low_levelContacts.dir/test.c.o	3dcc12adf0238252
+0	33	1675926378845780572	build.ninja	f12c02b9498b2ddf
+27	63	1675908053625216406	test_23_02_09_Clion_Low_levelContacts	7f85e42409065573
+0	27	1675908006452316531	CMakeFiles/test_23_02_09_Clion_Low_levelContacts.dir/contact.c.o	f1ee08847fe3d43e
+0	26	1675915688433164531	CMakeFiles/test_23_02_09_Clion_Low_levelContacts.dir/study/test.c.o	303dfbe0eb4df201
+0	28	1675926496677232655	CMakeFiles/test_23_02_09_Clion_Low_levelContacts.dir/study/test.c.o	303dfbe0eb4df201
