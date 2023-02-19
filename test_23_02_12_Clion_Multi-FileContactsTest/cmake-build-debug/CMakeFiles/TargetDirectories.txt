@@ -1,0 +1,3 @@
+/Users/xuruijiang/CLionProjects/test_23_02_12_Clion_Multi-FileContactsTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xuruijiang/CLionProjects/test_23_02_12_Clion_Multi-FileContactsTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuruijiang/CLionProjects/test_23_02_12_Clion_Multi-FileContactsTest/cmake-build-debug/CMakeFiles/test_23_02_12_Clion_Multi_FileContactsTest.dir
