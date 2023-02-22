@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//测试
 int missingNumber(int* nums, int numsSize){
 
     int temp = 0;
