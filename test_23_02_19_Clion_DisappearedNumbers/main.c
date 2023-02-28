@@ -1,24 +1,59 @@
+//#include <stdio.h>
+////#include "test.h"
+////测试
+//int missingNumber(int* nums, int numsSize){
+//
+//    int temp = 0;
+//    for(int i = 0; i < numsSize; ++i){
+//
+//        temp ^= nums[i];
+//    }
+//
+//    for(int i = 0; i < numsSize + 1; ++i){
+//
+//        temp ^= i;
+//    }
+//
+//    return temp;
+//}
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//int main() {
+//
+//
+//
+//    int *p;
+//    int a[5] = {4,3,6,5,1};
+//    p = a;
+//    printf("%d ",(*p)++);
+//    printf("%d",*p);
+//    return 0;
+//}
+
 #include <stdio.h>
-//测试
-int missingNumber(int* nums, int numsSize){
 
-    int temp = 0;
-    for(int i = 0; i < numsSize; ++i){
+struct T {
+    int  x;
+    struct T * y;
+} data[2]={10, 0, 20, 0};
 
-        temp ^= nums[i];
-    }
+void main()
+{ struct T * p= data;
 
-    for(int i = 0; i < numsSize + 1; ++i){
+    p->y=data;
 
-        temp ^= i;
-    }
+    printf("%d\n", ++p->x);
 
-    return temp;
-}
-int main() {
-
-    int nums[10] = {0,1,2,3,4,5,6,7,9,10};
-    printf("%d",missingNumber(nums,10));
-
-    return 0;
 }
