@@ -43,6 +43,7 @@
 //}
 
 #include <stdio.h>
+#include <stdlib.h>
 
 struct T {
     int  x;
@@ -50,10 +51,15 @@ struct T {
 } data[2]={10, 0, 20, 0};
 
 void main()
-{ struct T * p= data;
+{
 
-    p->y=data;
 
-    printf("%d\n", ++p->x);
+
+    struct T * cur;
+    struct T * pre = (struct T *)malloc(sizeof(struct T));
+    cur = pre;
+    pre ->x = 10;
+    free(pre);
+    printf("%d",pre->x);
 
 }
