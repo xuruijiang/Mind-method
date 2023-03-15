@@ -31,6 +31,13 @@ char* my_strncpy(char* dest, char* src,size_t num )
 }
 int main()
 {
+
+//    double i ;
+//    int m;
+//    float n;
+//    long k;
+//    m = n = k = i = 20/3;
+//    printf("%.1f\n",i);
     char arr1[] = "abcdsadadad";
     char arr2[20];
     my_strncpy(arr2, arr1, 20);
