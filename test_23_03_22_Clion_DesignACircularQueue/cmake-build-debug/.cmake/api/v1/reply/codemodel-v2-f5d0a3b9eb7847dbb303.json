@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_23_03_22_Clion_DesignACircularQueue",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_23_03_22_Clion_DesignACircularQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_23_03_22_Clion_DesignACircularQueue-Debug-c9142bf4e4b46b859b63.json",
+					"name" : "test_23_03_22_Clion_DesignACircularQueue",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuruijiang/CLionProjects/test_23_03_22_Clion_DesignACircularQueue/cmake-build-debug",
+		"source" : "/Users/xuruijiang/CLionProjects/test_23_03_22_Clion_DesignACircularQueue"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
