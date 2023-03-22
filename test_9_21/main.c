@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdio.h>
 
 /*
 编写一个函数，实现对一个整数加密处理，加密方法为：
