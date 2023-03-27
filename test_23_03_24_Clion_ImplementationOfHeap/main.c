@@ -185,8 +185,75 @@ bool HeapEmpty(Heap* hp)
 // 比如：未央区排名前10的泡馍，西安交通大学王者荣耀排名前10的韩信，全国排名前10的李白。等等问题都是Topk问题，
 // 需要注意：
 // 找最大的前K个，建立K个数的小堆
+
 // 找最小的前K个，建立K个数的大堆
-void PrintTopK(int* a, int n, int k);
+void PrintTopK(int* a, int n, int k)
+{
+
+    assert(a);
+    Heap heap;
+    heap._a = (HPDataType *) malloc(sizeof(int) * k);
+    heap._capacity = k;
+    heap._size = 0;
+    for (int i = 0; i < k; ++i)
+    {
+        HeapPush(&heap, a[i]);
+    }//for
+
+    int father = 0;
+    int temp = 0;
+    int child = 0;
+    for (int i = k; i < n; ++i) {
+        if(a[i] < heap._a[0])
+        {
+            heap._a[0] = a[i];
+            father = 0;
+            while ((father * 2 + 1) <= heap._size)
+            {
+                if (father * 2 + 2 > heap._size)
+                {
+
+                    if (heap._a[father] < heap._a[father * 2 + 1])
+                    {
+                        temp = heap._a[father];
+                        heap._a[father] = heap._a[father * 2 + 1];
+                        heap._a[father * 2 + 1] = temp;
+                        break;
+                    }//if
+                    else
+                    {
+                        break;
+                    }//else
+
+                }//if
+
+                child = (heap._a[father * 2 + 1] > heap._a[father * 2 + 2]) ? father * 2 + 1 : father * 2 + 2;
+
+                if (heap._a[father] < heap._a[child]) {
+                    temp = heap._a[father];
+                    heap._a[father] = heap._a[child];
+                    heap._a[child] = temp;
+
+                    father = child;
+                }//if
+                else {
+                    break;
+                }
+
+            }//while
+
+        }//if
+
+    }//for
+
+    for (int i = 0; i < k; ++i)
+    {
+
+        printf("%d ",heap._a[i]);
+    }//for
+
+
+}//函数结束
 void TestTopk();
 
 int main() {
@@ -198,12 +265,14 @@ int main() {
     {
         printf("Null\n");
     }//if
-    HPDataType a[10] = {3,5,7,9,12,3,5,22,34,5,};
+    HPDataType a[10] = {1,5,7,9,12,3,5,22,34,5,};
     HeapCreate(&heap,a,10);
     HeapPop(&heap);
 
     for (int i = 0; i < 9; ++i) {
         printf("%d->",heap._a[i]);
     }
+    printf("\n");
+    PrintTopK(a,10,8);
     return 0;
 }

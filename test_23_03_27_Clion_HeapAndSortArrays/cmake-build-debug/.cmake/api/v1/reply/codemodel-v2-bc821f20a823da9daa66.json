@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_23_03_27_Clion_HeapAndSortArrays",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_23_03_27_Clion_HeapAndSortArrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_23_03_27_Clion_HeapAndSortArrays-Debug-607b21d376141d66f143.json",
+					"name" : "test_23_03_27_Clion_HeapAndSortArrays",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuruijiang/CLionProjects/test_23_03_27_Clion_HeapAndSortArrays/cmake-build-debug",
+		"source" : "/Users/xuruijiang/CLionProjects/test_23_03_27_Clion_HeapAndSortArrays"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
