@@ -126,6 +126,10 @@ bool isValid(char * s){
 
 
 int main() {
+//    char c1,c2;
+//    scanf("%d",&c1);
+//    c2 = c1 + 9;
+//    printf("%c,%c",c1,c2);
 //    int i = 10;
 //    if(i > 1)
 //    {
@@ -133,6 +137,8 @@ int main() {
 //
 //        printf("%d\n",i);
 //    }
+
+    //printf("%d\n",(int)1.99 * 2);
 //    printf("%d\n",i);
 //
 //    printf("%d %d",i,i++);
@@ -141,7 +147,12 @@ int main() {
 //
 //        printf("ddd");
 //    }
-    char c[] = "(])";
-    printf("%d\n", isValid(c));
+//    char c[] = "(])";
+//    printf("%d\n", isValid(c));
+
+    int x = 3;
+
+    printf("%d\n",(x += x == x*x));
+
     return 0;
 }
