@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//测试
 int main() {
 
 
@@ -12,6 +12,8 @@ int main() {
     printf("%d\n",c[1]);
 
     int d[10] = {10*1};
+
+
 
     for (int i = 0; i < 10; ++i) {
         printf("%d   ",d[i]);
