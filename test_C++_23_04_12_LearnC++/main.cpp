@@ -1,6 +1,7 @@
 #include <iostream>
-
+int a = 0;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int a = 1;
+    printf("%d",::a);
     return 0;
 }
