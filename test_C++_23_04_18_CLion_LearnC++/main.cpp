@@ -1,4 +1,6 @@
 #include <iostream>
+
+#define ADD(x,y) (((x) + (y)) * 10)
 using namespace std;
 
 struct ListNode{
@@ -39,6 +41,8 @@ int main() {
 //    cout << n << endl;
 
     //int& a = 10;//错
+    int n = ADD(4,5);
+    printf("%d\n",n);
     int x = Count1();
     cout << x << endl;
 
