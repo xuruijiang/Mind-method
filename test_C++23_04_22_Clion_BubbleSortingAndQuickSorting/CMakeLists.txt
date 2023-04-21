@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(test_C__23_04_22_Clion_BubbleSortingAndQuickSorting)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(test_C__23_04_22_Clion_BubbleSortingAndQuickSorting main.cpp)
