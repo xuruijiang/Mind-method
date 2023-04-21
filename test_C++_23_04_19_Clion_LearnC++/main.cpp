@@ -31,6 +31,6 @@ int main() {
     Stack st = {nullptr,0,0};
     st.Init();
     cout << sizeof(st)<< endl;
-
+//sssssssssssssssssssssssssss
     return 0;
 }
