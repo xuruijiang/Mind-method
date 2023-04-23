@@ -1,6 +1,7 @@
 #include <iostream>
-
+#include <unistd.h>
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    printf("你好 你就是垃圾 !");
+    sleep(3);
     return 0;
 }
