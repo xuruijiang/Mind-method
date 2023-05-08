@@ -327,7 +327,7 @@ public class DaoTest {
         course.setCname(scanner.next());
         System.out.print("请输入课程学分: ");
         course.setCredit(scanner.nextInt());
-        System.out.print("亲输入课程开始选课时间(yyyy-mm-dd): ");
+        System.out.print("请输入课程开始选课时间(yyyy-mm-dd): ");
         String staTime = scanner.next();
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-mm-dd");
         try {
@@ -336,7 +336,7 @@ public class DaoTest {
         } catch (ParseException e) {
             e.printStackTrace();
         }
-        System.out.print("亲输入课程结束选课时间(yyyy-mm-dd): ");
+        System.out.print("请输入课程结束选课时间(yyyy-mm-dd): ");
         String ovTime = scanner.next();
         //Date dateTwo = null;
         try {
@@ -345,7 +345,7 @@ public class DaoTest {
         } catch (ParseException e) {
             e.printStackTrace();
         }
-        System.out.print("亲输入课程代课老师编号: ");
+        System.out.print("请输入课程代课老师编号: ");
         course.setTeaNo(scanner.nextInt());
 
         return course;

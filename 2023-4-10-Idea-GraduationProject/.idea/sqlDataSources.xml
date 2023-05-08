@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="398d5fae-7b5d-46ef-b4f5-897b9829d39e" name="hotel Mapping">
+      <data-sources ddl="a4cdab75-a424-4bb1-866d-e58be848791e" />
+    </mapping>
+  </component>
+</project>
