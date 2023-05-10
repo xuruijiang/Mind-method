@@ -52,10 +52,10 @@
         <!--右侧-->
         <div class="right">
             <blockquote class="layui-elem-quote">
-                    <h2>欢迎登陆温情小筑管理系统</h2>
+                    <h2>欢迎登陆文和楠墅管理系统</h2>
 
                     <marquee  vspace="15px">
-                        <font face="宋体" size="5px" color="fuchsia" >梦见四季，四季有家，温情小筑，欢迎入住！</font>
+                        <font face="宋体" size="5px" color="fuchsia" >四方有客，八方来财，文和楠墅，欢迎入住！</font>
                     </marquee>
                 <%-- 显示系统当前时间--%>
                 <div id="datetime">
@@ -94,8 +94,8 @@
                                 <li>当前版本: v1.0</li>
                                 <li><b>关注官网或github随时下载最新版</b></li>
                                 <li>
-                                    <a href="http://www.qadmin.net/" target="_blank" class="layui-btn layui-btn-normal">进入官网</a>
-                                    <a href="https://github.com/aa24615/qadmin" target="_blank" class="layui-btn layui-btn-normal">github</a>
+                                    <a href="http://www.gameblog.com.cn/" target="_blank" class="layui-btn layui-btn-normal">进入官网</a>
+                                    <a href="https://github.com/" target="_blank" class="layui-btn layui-btn-normal">github</a>
                                 </li>
                             </ul>
                         </div>

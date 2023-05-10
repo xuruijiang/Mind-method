@@ -52,10 +52,10 @@
         <!--右侧-->
         <div class="right">
             <blockquote class="layui-elem-quote">
-                    <h2>欢迎登陆温情小筑管理系统</h2>
+                    <h2>欢迎登陆文和楠墅管理系统</h2>
 
                     <marquee  vspace="15px">
-                        <font face="宋体" size="5px" color="fuchsia" >梦见四季，四季有家，温情小筑，欢迎入住！</font>
+                        <font face="宋体" size="5px" color="fuchsia" >四方有客，八方来财，文和楠墅，欢迎入住！</font>
                     </marquee>
                 <%-- 显示系统当前时间--%>
                 <div id="datetime">
@@ -72,7 +72,7 @@
                         <div class="layui-card-header"><h2>系统介绍</h2></div>
                         <div class="layui-card-body" style="height: 250px;">
                             <ul>
-                                <li>该是一个轻量级的后台管理系统,基于layui框架</li>
+                                <li>这是一个轻量级酒店管理后台,基于layui框架</li>
                                 <li>风格简洁简单,中小型企业首选</li>
                                 <li>您可以通过该面板对如下信息进行管理</li>
                                 <li><a href="#" target="_blank" class="layui-btn layui-btn-radius layui-btn-normal">住&nbsp;客&nbsp;信&nbsp;息</a></li>
@@ -91,12 +91,9 @@
                                 <li><a href="#">如何管理信息</a></li>
                                 <li><a href="#">后台用户设置(权限)</a></li>
                                 <li><a href="#">系统设置</a></li>
-                                <li>当前版本: v1.0</li>
-                                <li><b>关注官网或github随时下载最新版</b></li>
-                                <li>
-                                    <a href="http://www.qadmin.net/" target="_blank" class="layui-btn layui-btn-normal">进入官网</a>
-                                    <a href="https://github.com/aa24615/qadmin" target="_blank" class="layui-btn layui-btn-normal">github</a>
-                                </li>
+                                <li>当前版本: v3.0</li>
+
+
                             </ul>
                         </div>
                     </div>

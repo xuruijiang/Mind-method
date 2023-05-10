@@ -67,10 +67,11 @@
     "icon": "&#xe65c;",
     "url": "/jump/exit",
     "list": []
-}, {
+},
+    {
     "name": "开发者官网",
     "icon": "&#xe65f;",
-    "url": "http://www.qadmin.net/",
+    "url": "http://www.gameblog.com.cn/",
     "target": "_blank",
     "list": []
 }]

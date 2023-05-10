@@ -49,14 +49,14 @@
                 <div class="layui-form-item">
                     <label class="layui-form-label">系统名称</label>
                     <div class="layui-input-block">
-                        <input type="text" name="name" value="温情小筑后台管理" placeholder=""  class="layui-input">
+                        <input type="text" name="name" value="文和楠墅后台管理" placeholder=""  class="layui-input">
                     </div>
                 </div>
 
                 <div class="layui-form-item">
                     <label class="layui-form-label">系统标题</label>
                     <div class="layui-input-block">
-                        <input type="text" name="title" value="温情小筑"  placeholder=""  class="layui-input">
+                        <input type="text" name="title" value="文和楠墅"  placeholder=""  class="layui-input">
                     </div>
                 </div>
 
@@ -64,7 +64,7 @@
                 <div class="layui-form-item">
                     <label class="layui-form-label">关键词</label>
                     <div class="layui-input-block">
-                        <input type="text" name="keywords" value="梦见四季，四季有家，温情小筑，欢迎入住。" placeholder="" class="layui-input">
+                        <input type="text" name="keywords" value="四方有客，八方来财，文和楠墅，欢迎入住。" placeholder="" class="layui-input">
                     </div>
                 </div>
 

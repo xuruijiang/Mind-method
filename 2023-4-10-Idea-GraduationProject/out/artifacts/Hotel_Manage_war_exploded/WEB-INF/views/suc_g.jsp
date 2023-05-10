@@ -19,7 +19,7 @@
         <h4 class="jump">
             页面自动 <a id="href" href="${pageContext.request.contextPath}/guests/list">跳转</a> 等待时间： <b id="wait">3</b>
         </h4>
-        <p class="text-right">--温情小筑后台管理系统--</p>
+        <p class="text-right">--文和楠墅后台管理系统--</p>
         <p class="text-right">联系电话：178********</p>
     </div>
 </div>

@@ -14,7 +14,7 @@
 <body id="login">
 
 <div class="login">
-    <h2> <strong><font face="仿宋" >温情小筑后台登陆</font></strong></h2>
+    <h2> <strong><font face="仿宋" >文和楠墅后台登陆</font></strong></h2>
 
     <form class="layui-form" method="post" target="_blank" action="${pageContext.request.contextPath}/admin/login" >
 

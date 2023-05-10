@@ -27,7 +27,7 @@
         <h4 >
             请返回 <a id="href" onclick="shut()">登陆</a>
         </h4>
-        <p class="text-right">--温情小筑后台管理系统--</p>
+        <p class="text-right">--文和楠墅后台管理系统--</p>
         <p class="text-right">联系电话：178********</p>
     </div>
 </div>
