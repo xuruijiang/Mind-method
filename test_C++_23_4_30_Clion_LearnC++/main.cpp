@@ -23,6 +23,7 @@ public:
     }
 };
 
+
 class C
 {
 public:

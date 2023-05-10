@@ -1,0 +1,3 @@
+/Users/xuruijiang/CLionProjects/test_C++_2023_05_10_Clion_LearnC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xuruijiang/CLionProjects/test_C++_2023_05_10_Clion_LearnC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuruijiang/CLionProjects/test_C++_2023_05_10_Clion_LearnC++/cmake-build-debug/CMakeFiles/test_C___2023_05_10_Clion_LearnC__.dir
