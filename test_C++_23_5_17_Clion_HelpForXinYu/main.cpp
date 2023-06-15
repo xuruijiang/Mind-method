@@ -86,15 +86,54 @@ T1 fun(T1 t1, TN2 t2)
 {
     return t1 + t2;
 }
+
+void init(char board[5][5], char set)
+{
+    for (int i = 0; i < 5; ++i) {
+        for (int j = 0; j < 5; ++j) {
+            board[i][j] = set;
+        }
+
+    }
+
+}
+
 int main() {
+
+//    char board[5][5] = {0};
+//    init(board,'x');
+//    for (int i = 0; i < 5; ++i) {
+//        for (int j = 0; j < 5; ++j) {
+//            printf("%c ",board[i][j]);
+//        }
+//        printf("\n");
+//    }
+//    char x  = 126;
+//    x++;
+//    printf("%d\n",x);
+//    x++;
+//    printf("%d\n",x);
+
+//    string s("hello world");
+//    s += "sss";
+//    //cout << s << endl;
+//    string s3("https://edu.bitejiuyeke.com/personInf/student?userId=12506");
+//
+//    size_t pos1 = s3.find("://");
+//    cout << pos1 << endl;
+
+//    string s = "你好";
+//    char s1[] = "比特";
+//    cout << s.size() << endl;
+//    cout << sizeof(s1)<< endl;
 //    Date *pclassa = new Date[5];
 //    //int *p = (int *)malloc(4);
 //    delete []pclassa;
 
 //    Date *a = new Date;
 //    delete a;
-    Date A;
-    Date B = A;
+//    Date A;
+//    Date B = A;
     //B = A;
 
     //cout << fun(1,4.5) << endl;
