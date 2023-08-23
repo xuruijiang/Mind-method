@@ -1,0 +1,15 @@
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/bin/Debug/net7.0/Test_2023_08_24_test
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/bin/Debug/net7.0/Test_2023_08_24_test.deps.json
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/bin/Debug/net7.0/Test_2023_08_24_test.runtimeconfig.json
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/bin/Debug/net7.0/Test_2023_08_24_test.dll
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/bin/Debug/net7.0/Test_2023_08_24_test.pdb
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/Test_2023_08_24_test.csproj.AssemblyReference.cache
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/Test_2023_08_24_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/Test_2023_08_24_test.AssemblyInfoInputs.cache
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/Test_2023_08_24_test.AssemblyInfo.cs
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/Test_2023_08_24_test.csproj.CoreCompileInputs.cache
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/Test_2023_08_24_test.dll
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/refint/Test_2023_08_24_test.dll
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/Test_2023_08_24_test.pdb
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/Test_2023_08_24_test.genruntimeconfig.cache
+/Users/xuruijiang/VsProjects/Test_2023_08_24_test/Test_2023_08_24_test/obj/Debug/net7.0/ref/Test_2023_08_24_test.dll
