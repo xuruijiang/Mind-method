@@ -11,13 +11,14 @@ public class Home {
     private String State;
     private String Img;
     private String Text;
-
     private MultipartFile file;
 
     public Home() {
     }
 
-    public Home(Integer id, int num, String h_Type, String price, String state, String img, String text, MultipartFile file) {
+    public Home(Integer id, int num, String h_Type,
+                String price, String state, String img,
+                String text, MultipartFile file) {
         Id = id;
         Num = num;
         H_Type = h_Type;

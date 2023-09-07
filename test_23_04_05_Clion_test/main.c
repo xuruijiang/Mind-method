@@ -1,5 +1,6 @@
 #include <stdio.h>
 //测试
+
 int main() {
 
 
@@ -13,6 +14,9 @@ int main() {
 
     int d[10] = {10*1};
 
+
+    int h = a[0];
+    h = 1000;
 
 
     for (int i = 0; i < 10; ++i) {

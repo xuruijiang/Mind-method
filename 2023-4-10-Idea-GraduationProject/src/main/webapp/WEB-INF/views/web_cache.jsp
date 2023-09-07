@@ -12,7 +12,7 @@
     <script src="../views/static/common/vue.min.js"></script>
 </head>
 <body>
-<div id="app">
+<div id="appp">
     <!--顶栏-->
     <header>
         <div style="float:left;"><img src="../views/static/admin/img/tubiao.png" width="152" height="55" /></div>

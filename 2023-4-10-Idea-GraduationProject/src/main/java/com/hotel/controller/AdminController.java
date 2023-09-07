@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class AdminController {
 
     @Autowired
-            AdminServiceImpl adminService;
+    AdminServiceImpl adminService;
 
     @RequestMapping("/login")
     public String login(String username, int password){

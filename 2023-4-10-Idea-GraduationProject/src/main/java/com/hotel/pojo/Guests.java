@@ -12,8 +12,9 @@ public class Guests {
     private int Num;
     private String H_Type;
 
-
-    public Guests(int id, String name, String sex, long card, long phone, String enterTime, String exitTime, int num, String h_Type) {
+    public Guests(int id, String name, String sex,
+                  long card, long phone, String enterTime,
+                  String exitTime, int num, String h_Type) {
         Id = id;
         Name = name;
         Sex = sex;

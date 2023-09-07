@@ -22,7 +22,7 @@
         </div>
     </header>
 
-    <div class="main" id="app">
+    <div class="main" id="appp">
         <!--左栏-->
         <div class="left">
             <ul class="cl" >
