@@ -15,5 +15,18 @@ int main() {
     b = 20;
     c = MAX(a,b);
     printf("%d\n",c);
+    int *p = &a;
+
+    long m = (long)p;
+    printf("%d\n",*p);
+    printf("%p\n",p);
+    printf("%d\n",*((int *)m));
+
+    char ch = 'w';
+    char * pc = &ch;
+
+    *pc = 'b';
+    printf("%c\n",ch);
+
     return 0;
 }
