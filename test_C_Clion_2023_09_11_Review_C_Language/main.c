@@ -18,7 +18,7 @@ int main() {
 
 
     int n = 10;
-    int arr[n]; //变长数组不能初始化
+    int arr[n]; //变长数组不能初始化，变长数组好奇怪
     n = 15;
     for (int i = 0; i < n; ++i) {
 
@@ -40,6 +40,8 @@ int main() {
 
     printf("\n%d\n",(int)sizeof(arr));
 
+    int c = 0;
+    scanf("%d",&c);
 
     return 0;
 }
