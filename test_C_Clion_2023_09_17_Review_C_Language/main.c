@@ -1,16 +1,17 @@
 #include <stdio.h>
+#include <math.h>
 //---------------------------------------------//
 void PrimeNumber(int min, int max)
 {
     int tmp = 0;
     for (int i = min; i <= max; ++i) {
-        for (int j = 2; j < i; ++j) {
+        for (int j = 2; j <= sqrt(i); ++j) {
             if(i % j == 0)
             {
                 tmp = 1;
                 break;
             }
-        }//内循环
+        }//内循环//---------------------------------------------//
         if(tmp == 0)
         {
             printf("%d,",i);
@@ -22,7 +23,7 @@ void PrimeNumber(int min, int max)
 //---------------------------------------------//
 int main() {
 
-    PrimeNumber(1,10);
+    PrimeNumber(1,1000333);
     return 0;
 }
 //---------------------------------------------//
