@@ -29,7 +29,7 @@ long long FibonacciIteration(int n)
             temp = Fib2;
             Fib2 = Fib1 + Fib2;
             Fib1 = temp;
-        }
+        }//for
         return Fib2;
     }//else
 
@@ -47,7 +47,7 @@ int main() {
         ret = FibonacciIteration(i);
         printf("%lld，",ret);
         i++;
-    }
+    }//while
     return 0;
 }
 //--------------------------------------------------//
