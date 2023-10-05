@@ -1,0 +1,3 @@
+/Users/xuruijiang/CLionProjects/test_C_Clion_2023_10_05_Review_C_Language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xuruijiang/CLionProjects/test_C_Clion_2023_10_05_Review_C_Language/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuruijiang/CLionProjects/test_C_Clion_2023_10_05_Review_C_Language/cmake-build-debug/CMakeFiles/test_C_Clion_2023_10_05_Review_C_Language.dir
