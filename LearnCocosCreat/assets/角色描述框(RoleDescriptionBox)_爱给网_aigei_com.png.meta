@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "08e90e03-98d2-472b-b47b-78aa438cdc25",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 303,
+  "height": 330,
+  "platformSettings": {},
+  "subMetas": {
+    "角色描述框(RoleDescriptionBox)_爱给网_aigei_com": {
+      "ver": "1.0.6",
+      "uuid": "7085bd6f-b81c-4fa6-a425-c1123c1e11dc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "08e90e03-98d2-472b-b47b-78aa438cdc25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": 0,
+      "trimX": 9,
+      "trimY": 0,
+      "width": 294,
+      "height": 330,
+      "rawWidth": 303,
+      "rawHeight": 330,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
