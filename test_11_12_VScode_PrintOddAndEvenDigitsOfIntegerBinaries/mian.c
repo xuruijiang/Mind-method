@@ -1,7 +1,12 @@
 #include <stdio.h>
+#include<string.h>
 
+void fun(){
+
+    printf("sss\n");
+}
 int main(){
-
+    fun();
     int num = 0;
     scanf("%d",&num);
     int oddNumber[16] = {0};

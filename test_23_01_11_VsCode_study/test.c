@@ -1,4 +1,9 @@
 #include <stdio.h>
+
+void fun(){
+
+    
+}
 int main(){
 
     int count = 0;
