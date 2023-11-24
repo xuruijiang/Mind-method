@@ -67,9 +67,24 @@ int main() {
             }
         }//内for
 
+        if(count == 100)
+        {
+            break;
+        }
         h++;
     }//外for
+    printf("\n");
+    for (int i = 0; i < 100; ++i) {
+        printf("%d ",data4[i]);
+    }
 
 
     return 0;
 }
+
+
+
+
+
+
+
