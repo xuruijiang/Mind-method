@@ -9,6 +9,9 @@
 #include <string.h>
 //5.编写函数f,f的功能是对一个字符串进行简单加密,加密规则为:英文字母用该字母之后的第二个 字母 替换 ,即 字母 a用 字母 c替 换 ,字 母 b用 字母 d替 换 , ̈ ⋯,字 母 y用 字母 a替 换 ,字 母 z用 字母 b 替换 ;数 字字符进行加 1处 理 ,即 字符 0用 字符 1替 换 ,字 符 1用 字符 2替 换 。⋯ ̈字符 9用 字符 0替 换 , 其他字符保持不变。并编写主函数,实现如下功能:输入 10个字符串,调用函数f对字符串进行加密, 并将加密之后的 10个字符串写入文件 data.txt中 。
 
+//#define ADD((x),(y)) x + y 错的
+
+#define S(x) 1*x*x
 
 void f(char *s, int size)
 {
@@ -42,6 +45,12 @@ void f(char *s, int size)
 }
 int main(int argc, const char * argv[]) {
     // insert code here...
+    
+    //double a = 3E4;
+    long ll = 3323L;
+    printf("%d\n",S(5+3));
+    
+    //printf("%d",sizeof(long));
     
     char s[1000];
     FILE* pf = fopen("/Users/xuruijiang/Desktop/data.txt", "a");

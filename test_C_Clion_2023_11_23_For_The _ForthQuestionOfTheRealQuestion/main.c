@@ -7,6 +7,9 @@
 //据。如待排序的5个整数值为：16， 266，666，9，166，
 //则排序之后的数据为：9，16，166，266，666。
 int main() {
+   printf("%d\n",sizeof(long));
+     int  a = 3E4;
+
     srand((unsigned)time(NULL));
     int data1[100];
     int data2[100];
