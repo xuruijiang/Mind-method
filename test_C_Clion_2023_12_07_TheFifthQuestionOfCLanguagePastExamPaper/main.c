@@ -58,6 +58,7 @@ int main() {
         printf("%4d ",arr[i]);
     }
 
+
     fclose(pf);
     pf = NULL;
     return 0;

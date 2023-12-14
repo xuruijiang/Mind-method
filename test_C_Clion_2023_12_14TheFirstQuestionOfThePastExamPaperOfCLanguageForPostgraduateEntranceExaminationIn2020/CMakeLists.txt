@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(test_C_Clion_2023_12_14TheFirstQuestionOfThePastExamPaperOfCLanguageForPostgraduateEntranceExaminationIn2020 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(test_C_Clion_2023_12_14TheFirstQuestionOfThePastExamPaperOfCLanguageForPostgraduateEntranceExaminationIn2020 main.c)
