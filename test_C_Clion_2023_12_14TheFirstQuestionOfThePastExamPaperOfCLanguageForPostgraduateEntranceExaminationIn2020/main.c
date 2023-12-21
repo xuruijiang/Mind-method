@@ -79,5 +79,8 @@ int main() {
             break;
         }
     } while (decent != 495);
+
+    int aaa = 0;
+    printf("%d",aaa);
     return 0;
 }

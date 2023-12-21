@@ -20,29 +20,44 @@ int Prime(int n)
 
     return temp;
 }
+
+struct stu{
+    char name[20];
+    int sorce;
+    char c;
+};
+
 int main() {
 
-    FILE * fp = fopen("/Users/xuruijiang/Desktop/zhishu.txt","a");
-    int number1 = 0;
-    int number2 = 0;
-    for (int i = 1; i < 10000; ++i) {
+    FILE * fp = fopen("/Users/xuruijiang/Desktop/zhishu.txt","rw");
+    //FILE * pf = fopen("/Users/xuruijiang/Desktop/zhishu.txt","r");
+    struct stu stu1 = {"徐瑞江",99,'A'};
+    struct stu stu2 = {0};
+    fprintf(fp,"%s %d %c",stu1.name,stu1.sorce,stu1.c);
+    fscanf(fp,"%s %d %c",stu2.name,&(stu2.sorce),&(stu2.c));
+    printf("%s %d %c",stu2.name,stu2.sorce,stu2.c);
+//先写再读，不行。 就是不能同时两个指针打开一个文件进行操作。
 
-        if(!Prime(i))
-        {
-            printf("%d ",i);
-            fprintf(fp,"%d ",i);
-            number1++;
-            number2++;
-            if(number2 == 10)
-            {
-                fputc('\n',fp);
-            }
-        }
-        if(number2 == 10)
-        {
-            printf("\n");
-            number2 = 0;
-        }
-    }
+//    int number1 = 0;
+//    int number2 = 0;
+//    for (int i = 1; i < 10000; ++i) {
+//
+//        if(!Prime(i))
+//        {
+//            printf("%d ",i);
+//            fprintf(fp,"%d ",i);
+//            number1++;
+//            number2++;
+//            if(number2 == 10)
+//            {
+//                fputc('\n',fp);
+//            }
+//        }
+//        if(number2 == 10)
+//        {
+//            printf("\n");
+//            number2 = 0;
+//        }
+//    }
     return 0;
 }
