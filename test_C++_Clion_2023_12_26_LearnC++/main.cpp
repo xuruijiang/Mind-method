@@ -66,8 +66,10 @@ char* reverses(const char* s, char* d)
     }
     return ret;
 }
-int main()
-{
+int main(){
+
+
+
     char arr[] = "1100 1000 1101";
     /*int len = sizeof(arr)/ sizeof(arr[0]);
     char* arr1 = new char[len];*/

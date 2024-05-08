@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_2024_5_8_C_Clion_CyclicAlgorithm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_2024_5_8_C_Clion_CyclicAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_2024_5_8_C_Clion_CyclicAlgorithm-Debug-032250c5548002d3e8c2.json",
+					"name" : "test_2024_5_8_C_Clion_CyclicAlgorithm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuruijiang/CLionProjects/test_2024_5_8_C_Clion_CyclicAlgorithm/cmake-build-debug",
+		"source" : "/Users/xuruijiang/CLionProjects/test_2024_5_8_C_Clion_CyclicAlgorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
