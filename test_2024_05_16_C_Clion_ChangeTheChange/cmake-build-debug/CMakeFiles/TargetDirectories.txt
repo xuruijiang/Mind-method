@@ -1,0 +1,3 @@
+/Users/xuruijiang/CLionProjects/test_2024_05_16_C_Clion_ChangeTheChange/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xuruijiang/CLionProjects/test_2024_05_16_C_Clion_ChangeTheChange/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuruijiang/CLionProjects/test_2024_05_16_C_Clion_ChangeTheChange/cmake-build-debug/CMakeFiles/test_2024_05_16_C_Clion_ChangeTheChange.dir
